@@ -2,11 +2,11 @@
 # Prediksi Harga Rumah dengan Regresi Linear
 
 ## 📌 Deskripsi
-Project ini bertujuan untuk memprediksi volume penjualan menggunakan data historis penjualan toko ritel.
+Project ini bertujuan untuk memprediksi volume penjualan menggunakan data historis penjualan toko retail.
 
 ## 📁 Struktur Project
-- `notebooks/model.ipynb` – Notebook utama berisi pemodelan
-- `dataset/` – Berisi dataset yang digunakan
+- `notebooks/model.ipynb` – Notebook utama berisi pemodelan dari dataset yang akan digunakan
+- `dataset/` – Berisi dataset yang akan digunakan
 
 ## 🧰 Tools
 - Python (pandas, sklearn, matplotlib)
